@@ -6,10 +6,10 @@ export function Home() {
         <div className="max-w-7xl mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <h1 className="text-6xl font-bold mb-6 bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
+              <h1 className="text-6xl font-bold mb-2 leading-snug bg-gradient-to-r from-primary to-secondary bg-clip-text text-transparent">
                 Quelly Honorato
               </h1>
-              <h2 className="text-3xl font-semibold mb-4 text-gray-700">
+              <h2 className="text-3xl font-semibold mb-2 text-gray-700">
                 Advogada Especialista em Direito Civil e Empresarial
               </h2>
               <p className="text-xl text-gray-600 mb-8">

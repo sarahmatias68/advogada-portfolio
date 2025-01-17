@@ -15,17 +15,17 @@ export function Contact() {
               <input
                 type="text"
                 placeholder="Seu Nome"
-                className="w-full px-6 py-4 rounded-lg bg-white/10 border border-white/20  text-gray-600 focus:outline-none focus:ring-2 focus:ring-white/50"
+                className="w-full px-6 py-4 rounded-lg bg-white/10 border border-black/20  text-gray-600 focus:outline-none focus:ring-2 focus:ring-black/50"
               />
               <input
                 type="email"
                 placeholder="Seu Email"
-                className="w-full px-6 py-4 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/60 focus:outline-none focus:ring-2 focus:ring-white/50"
+                className="w-full px-6 py-4 rounded-lg bg-white/10 border border-black/20 text-gray-600 focus:outline-none focus:ring-2 focus:ring-black/50"
               />
               <textarea
                 placeholder="Sua Mensagem"
                 rows={4}
-                className="w-full px-6 py-4 rounded-lg bg-white/10 border border-white/20 text-white placeholder-white/60 focus:outline-none focus:ring-2 focus:ring-white/50"
+                className="w-full px-6 py-4 rounded-lg bg-white/10 border border-black/20 text-gray-600 focus:outline-none focus:ring-2 focus:ring-black/50"
               ></textarea>
               <button type="submit" className="btn bg-white text-primary hover:bg-gray-100 w-full">
                 Enviar Mensagem
